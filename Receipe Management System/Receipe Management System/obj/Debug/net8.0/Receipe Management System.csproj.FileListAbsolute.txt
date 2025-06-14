@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\bin\Debug\net8.0\Receipe Management System.exe
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\bin\Debug\net8.0\Receipe Management System.deps.json
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\bin\Debug\net8.0\Receipe Management System.runtimeconfig.json
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\bin\Debug\net8.0\Receipe Management System.dll
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\bin\Debug\net8.0\Receipe Management System.pdb
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\obj\Debug\net8.0\Receipe Management System.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\obj\Debug\net8.0\Receipe Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\obj\Debug\net8.0\Receipe Management System.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\obj\Debug\net8.0\Receipe Management System.AssemblyInfo.cs
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\obj\Debug\net8.0\Receipe Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\obj\Debug\net8.0\Receipe .CE0B340C.Up2Date
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\obj\Debug\net8.0\Receipe Management System.dll
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\obj\Debug\net8.0\refint\Receipe Management System.dll
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\obj\Debug\net8.0\Receipe Management System.pdb
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\obj\Debug\net8.0\Receipe Management System.genruntimeconfig.cache
+C:\Users\User\source\repos\Receipe Management System\Receipe Management System\obj\Debug\net8.0\ref\Receipe Management System.dll
